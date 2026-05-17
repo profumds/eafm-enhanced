@@ -19,7 +19,7 @@ The original integration struggles with "Station Shadowing." If two or more stat
 
 I have configured it so that every added station via this integration is created as a 'device' with it's own entities within it.
 On top of this, the entity for the water level has now got extra attributes which you can use in other aspects of Home Assistant.   
-These addtional attributes are
+These additional attributes are
 
 * **River** - Shows which river this monitoring station is on.
 * **Catchment** - Shows which catchment area this monitoring station resides. 
